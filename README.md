@@ -10,6 +10,7 @@ Hwameistor is a cloud-native storage system. It creates a local storage resource
 The latest release of HwameiStor is [![hwameistor-releases](https://img.shields.io/github/v/release/hwameistor/hwameistor.svg?include_prereleases)](https://github.com/hwameistor/hwameistor/releases)
 ## Build Status
 ![period-check](https://github.com/hwameistor/hwameistor/actions/workflows/period-check.yml/badge.svg) [![codecov](https://codecov.io/gh/hwameistor/hwameistor/branch/main/graph/badge.svg?token=AWRUI46FEX)](https://codecov.io/gh/hwameistor/hwameistor) [![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/5685/badge)](https://bestpractices.coreinfrastructure.org/projects/5685)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpanpan0000%2Fhwameistor.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpanpan0000%2Fhwameistor?ref=badge_shield)
 ## Release Status
 | Release  | Version | Type   |    
 |----------|---------|--------|
@@ -92,3 +93,6 @@ Copyright (c) 2014-2021 The HwameiStor Authors
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
 http://www.apache.org/licenses/LICENSE-2.0
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpanpan0000%2Fhwameistor.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpanpan0000%2Fhwameistor?ref=badge_large)
